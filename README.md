@@ -39,6 +39,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"   width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40px heigth=50px >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"   width="40px" height="40px" />
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original-wordmark.svg"   width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"  width="40px" height="40px" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"   width="40px" height="40px" />
