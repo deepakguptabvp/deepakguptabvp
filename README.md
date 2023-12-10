@@ -1,6 +1,5 @@
 # Hi 👋, I'm <a href="https://github.com/deepakguptabvp" target="blank">Deepak Gupta</a>
 <h3>A Full Stack Web Developer &#127470;&#127475</h3>
- <img src="https://komarev.com/ghpvc/?username=twi05&label=PROFILE VIEWS  &color=red&style=flat" alt="twinshu"/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://giphy.com/gifs/thecodingspacerd-space-coding-thecodingspace-ve43TyDQ3B4me7d22z">
 </a> 
