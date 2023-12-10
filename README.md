@@ -1,10 +1,9 @@
 # Hi 👋, I'm <a href="https://github.com/deepakguptabvp" target="blank">Deepak Gupta</a>
 <h3>A Full Stack Web Developer &#127470;&#127475</h3>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://giphy.com/stickers/devrock-edr-escueladevrock-no-de-eNAsjO55tPbgaor7ma">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://giphy.com/stickers/transparent-GZu3NtMoA6Lp2alLKk">
 </a> 
 
-<iframe src="https://giphy.com/embed/GZu3NtMoA6Lp2alLKk" width="480" height="304" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-GZu3NtMoA6Lp2alLKk">via GIPHY</a></p>
  🌱 I’m Working on Web Development (ReactJS, NextJS) and have hands-on experience in Java Full Stack Development.
 
  🤝 I’m available for Jobs.
