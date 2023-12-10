@@ -32,7 +32,7 @@
 
 ## **Languages and Tools**
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="40px" height="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px">
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px">
 <img src ="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" width="40px" height="40px">
