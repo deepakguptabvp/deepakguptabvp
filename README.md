@@ -1,7 +1,7 @@
 # Hi 👋, I'm <a href="https://github.com/deepakguptabvp" target="blank">Deepak Gupta</a>
 <h3>A Full Stack Web Developer &#127470;&#127475</h3>
 <a target="_blank" align="center">
-  <img align="right" top="300" height="300" width="400" alt="image" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220416200936/Top-10-Front-End-Developer-Skills-That-You-Need-in-2022.png">
+  <img align="right" top="300" height="300" width="400" alt="image" src="https://images.prismic.io/turing/652ec75afbd9a45bcec81a31_Front_End_Developer_Outsource_6b0889ba3a.webp?auto=format,compress">
 </a> 
 
  🌱 I’m Working on Web Development (ReactJS, NextJS) and have hands-on experience in Java Full Stack Development.
