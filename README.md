@@ -1,7 +1,7 @@
 # Hi 👋, I'm <a href="https://github.com/deepakguptabvp" target="blank">Deepak Gupta</a>
 <h3>A Full Stack Web Developer &#127470;&#127475</h3>
 <a target="_blank" align="center">
-  <img align="right" top="300" height="300" width="400" alt="image" src="https://t3.ftcdn.net/jpg/02/92/88/72/360_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg">
+  <img align="right" top="300" height="300" width="400" alt="image" src="https://www.tatvasoft.com/blog/wp-content/uploads/2022/07/Why-Use-React.jpg">
 </a> 
 
  🌱 I’m Working on Web Development (ReactJS, NextJS) and have hands-on experience in Java Full Stack Development.
