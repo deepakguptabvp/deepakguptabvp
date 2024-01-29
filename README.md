@@ -1,12 +1,13 @@
  <h1 align="center">  Hi 👋, I'm <a href="https://github.com/deepakguptabvp" target="blank">Deepak Gupta</a> </h1>
-<h4>A Full Stack Web Developer &#127470;&#127475</h4> 
+<h4 align="center">A Full Stack Web Developer &#127470;&#127475
+
 <a href="https://www.linkedin.com/in/deepak-gupta-057684141/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a> 
-
 <a href="deepakgupta.150743@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</h4> 
 
 <p>
 <!--   <a target="_blank" align="center">
@@ -14,12 +15,9 @@
 </a>  -->
 </p>
 
- 🌱 I’m Working on Web Development (ReactJS, NextJS) and have hands-on experience in Java Full Stack Development.
-
+ 🌱 I'm a Full Stack Developer in Cognizant having 1.6 years of experience.
  🤝 I’m available for Jobs.
-
  🌱 I’m currently learning Advanced ReactJS and NextJs.
-
  💬 Ask me about **ReactJS & Javascript & SpringBoot**
 
 ## **About me** :
