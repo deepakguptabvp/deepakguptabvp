@@ -10,18 +10,17 @@
 </h3> 
 
 <p>
- 🤝 <b> I’m available for Jobs. </b>
- 🌱 I'm a Full Stack Developer in Cognizant having 1.6 years of experience. </br>
- 🌱 I’m currently learning Advanced ReactJS and NextJs. </br>
- 💬 Ask me about **ReactJS & Javascript & SpringBoot** </br>
-
 <!--   <a target="_blank" align="center">
   <img align="right" top="300" height="300" width="400" alt="image" src="https://www.tatvasoft.com/blog/wp-content/uploads/2022/07/Why-Use-React.jpg">
 </a>  -->
 </p>
+
+ 🤝 <b> I’m available for Jobs. </b>
+ 🌱 I'm a Full Stack Developer in Cognizant having 1.6 years of experience. </br>
+ 🌱 I’m currently learning Advanced ReactJS and NextJs. </br>
+ 💬 Ask me about **ReactJS & Javascript & SpringBoot** </br>
  
 ## **About me** :
-- I Dig up 🕵️‍♀️real-world problems🌍and **Find Solutions** for them.
 - I 😍love to **Create and modify new products** and **Projects**👨‍💻.
 - I Focus on my **Problem-Solving Skill** and Trend Awareness🕵️‍♀️.
 - I 👨‍🏫Love to **Share** my **knowledge** and **experience** in **Public**.
