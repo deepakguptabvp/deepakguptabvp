@@ -57,8 +57,6 @@
 </p>
 
 ## **GitHub Stats** :
-<a href="https://github.com/deepakguptabvp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakguptabvp&theme=light&count_private=true&layout=compact" width="205" alt="Deepak's most used languages" />
   
 </a>
 <a href="https://github.com/deepakguptabvp">
