@@ -57,13 +57,13 @@
 </p>
 
 ## **GitHub Stats** :
-
- <img width ="49%" src="https://github-readme-stats.vercel.app/api?username=deepakguptabvp&show_icons=true&theme=radical"/>
+<a href="https://github.com/deepakguptabvp">
+<img width ="49%" src="https://github-readme-stats.vercel.app/api?username=deepakguptabvp&show_icons=true&theme=tokyonight"/>
+</a>
   
 <a href="https://github.com/deepakguptabvp">
 <img width="49%" placeholder="GitHub streak" title="Redirect's to Deepak's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakguptabvp&theme=dark&theme=black-ice&stroke=0000" /></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!-- ## **Projects** -->
 
