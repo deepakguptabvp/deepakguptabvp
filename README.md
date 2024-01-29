@@ -51,9 +51,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript"  width="40px" height="40px" />
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" width="40px" height="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="Github" width="40px" height="40px"> 
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="VS Studio Code" width="35px" height="35px">
+<!-- <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="VS Studio Code" width="35px" height="35px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" title="Android" width="40px" height="40px" />         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg" title="Android-Studio" width="40px" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg" title="Android-Studio" width="40px" height="40px"/> -->
 </p>
 
 ## **GitHub Stats** :
