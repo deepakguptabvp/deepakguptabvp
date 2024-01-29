@@ -15,7 +15,7 @@
 </a>  -->
 </p>
 
- 🌱 I'm a Full Stack Developer in Cognizant having 1.6 years of experience.
+ 🌱 I'm a Full Stack Developer in Cognizant having 1.6 years of experience. </br>
  🤝 I’m available for Jobs.
  🌱 I’m currently learning Advanced ReactJS and NextJs.
  💬 Ask me about **ReactJS & Javascript & SpringBoot**
@@ -55,10 +55,10 @@
 
 ## **GitHub Stats** :
 <a href="https://github.com/deepakguptabvp">
-<img width="49%" height="30%" placeholder="GitHub streak" title="Redirect's to Deepak's Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" /></a>
+<img width="49%" height="30%" placeholder="GitHub streak" title="Redirect's to Deepak's Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakguptabvp&layout=compact&theme=tokyonight" /></a>
 
 <a href="https://github.com/deepakguptabvp">
-<img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=deepakguptabvp&show_icons=true&theme=tokyonight"/>
+<img width="50%" height="60%" src="https://github-readme-stats.vercel.app/api?username=deepakguptabvp&show_icons=true&theme=tokyonight"/>
 </a>
 
 
