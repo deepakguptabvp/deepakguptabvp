@@ -1,5 +1,5 @@
  <h1 align="center">  Hi 👋, I'm <a href="https://github.com/deepakguptabvp" target="blank">Deepak Gupta</a> </h1>
-<h4 align="center">  A Full Stack Web Developer &#127470;&#127475
+<h3 align="center">  A Full Stack Web Developer &#127470;&#127475
 
 <a href="https://www.linkedin.com/in/deepak-gupta-057684141/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
@@ -7,19 +7,19 @@
 <a href="deepakgupta.150743@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</h4> 
+</h3> 
 
 <p>
+ 🤝 <b> I’m available for Jobs. </b>
+ 🌱 I'm a Full Stack Developer in Cognizant having 1.6 years of experience. </br>
+ 🌱 I’m currently learning Advanced ReactJS and NextJs. </br>
+ 💬 Ask me about **ReactJS & Javascript & SpringBoot** </br>
+
 <!--   <a target="_blank" align="center">
   <img align="right" top="300" height="300" width="400" alt="image" src="https://www.tatvasoft.com/blog/wp-content/uploads/2022/07/Why-Use-React.jpg">
 </a>  -->
 </p>
-
- 🌱 I'm a Full Stack Developer in Cognizant having 1.6 years of experience. </br>
- 🤝 I’m available for Jobs.
- 🌱 I’m currently learning Advanced ReactJS and NextJs.
- 💬 Ask me about **ReactJS & Javascript & SpringBoot**
-
+ 
 ## **About me** :
 - I Dig up 🕵️‍♀️real-world problems🌍and **Find Solutions** for them.
 - I 😍love to **Create and modify new products** and **Projects**👨‍💻.
