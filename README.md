@@ -56,7 +56,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg" title="Android-Studio" width="40px" height="40px"/>
 </p>
 
-
+## **GitHub Stats** :
+<a href="https://github.com/deepakguptabvp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakguptabvp&theme=light&count_private=true&layout=compact" width="205" alt="Deepak's most used languages" />
+  
+</a>
+<a href="https://github.com/deepakguptabvp">
+ <img align="center" src="https://githubreadmestats.vercel.app/apiusername=deepakguptabvp
+&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Deepak's github stats"/>
+</a>
       
 
 
