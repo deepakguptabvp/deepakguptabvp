@@ -10,9 +10,9 @@
 </h4> 
 
 <p>
-  <a target="_blank" align="center">
+<!--   <a target="_blank" align="center">
   <img align="right" top="300" height="300" width="400" alt="image" src="https://www.tatvasoft.com/blog/wp-content/uploads/2022/07/Why-Use-React.jpg">
-</a> 
+</a>  -->
 </p>
 
  🌱 I'm a Full Stack Developer in Cognizant having 1.6 years of experience.
@@ -59,7 +59,7 @@
 </a>
 
 <a href="https://github.com/deepakguptabvp">
-<img width="50%" height="50%" placeholder="GitHub streak" title="Redirect's to Deepak's Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight" /></a>
+<img width="50%" height="30%" placeholder="GitHub streak" title="Redirect's to Deepak's Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" /></a>
 
 
 
