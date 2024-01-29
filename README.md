@@ -1,6 +1,7 @@
-<p align="center"> <h1>  Hi 👋, I'm <a href="https://github.com/deepakguptabvp" target="blank">Deepak Gupta</a> </h1>
+ <h1 align="center">  Hi 👋, I'm <a href="https://github.com/deepakguptabvp" target="blank">Deepak Gupta</a> </h1>
 <h3>A Full Stack Web Developer &#127470;&#127475</h3>
-</p>
+
+
 <p>
 <!--   <a target="_blank" align="center">
   <img align="right" top="300" height="300" width="400" alt="image" src="https://www.tatvasoft.com/blog/wp-content/uploads/2022/07/Why-Use-React.jpg">
