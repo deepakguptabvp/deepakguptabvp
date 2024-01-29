@@ -55,11 +55,11 @@
 
 ## **GitHub Stats** :
 <a href="https://github.com/deepakguptabvp">
-<img width ="49%" src="https://github-readme-stats.vercel.app/api?username=deepakguptabvp&show_icons=true&theme=tokyonight"/>
+<img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=deepakguptabvp&show_icons=true&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/deepakguptabvp">
-<img width="49%" placeholder="GitHub streak" title="Redirect's to Deepak's Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight" /></a>
+<img width="50%" height="50%" placeholder="GitHub streak" title="Redirect's to Deepak's Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight" /></a>
 
 
 
