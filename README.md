@@ -1,14 +1,18 @@
  <h1 align="center">  Hi 👋, I'm <a href="https://github.com/deepakguptabvp" target="blank">Deepak Gupta</a> </h1>
-<h3>A Full Stack Web Developer &#127470;&#127475</h3>
+<h4>A Full Stack Web Developer &#127470;&#127475</h4> 
+<a href="https://www.linkedin.com/in/deepak-gupta-057684141/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+ </a> 
 
+<a href="deepakgupta.150743@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <p>
 <!--   <a target="_blank" align="center">
   <img align="right" top="300" height="300" width="400" alt="image" src="https://www.tatvasoft.com/blog/wp-content/uploads/2022/07/Why-Use-React.jpg">
 </a>  -->
-
 </p>
-
 
  🌱 I’m Working on Web Development (ReactJS, NextJS) and have hands-on experience in Java Full Stack Development.
 
@@ -18,18 +22,7 @@
 
  💬 Ask me about **ReactJS & Javascript & SpringBoot**
 
-
-
-<a href="https://www.linkedin.com/in/deepak-gupta-057684141/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
- </a> 
-
-<a href="deepakgupta.150743@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 ## **About me** :
-
 - I Dig up 🕵️‍♀️real-world problems🌍and **Find Solutions** for them.
 - I 😍love to **Create and modify new products** and **Projects**👨‍💻.
 - I Focus on my **Problem-Solving Skill** and Trend Awareness🕵️‍♀️.
