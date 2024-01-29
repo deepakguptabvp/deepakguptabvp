@@ -1,5 +1,5 @@
  <h1 align="center">  Hi 👋, I'm <a href="https://github.com/deepakguptabvp" target="blank">Deepak Gupta</a> </h1>
-<h4 align="center">A Full Stack Web Developer &#127470;&#127475
+<h4 align="center">  A Full Stack Web Developer &#127470;&#127475
 
 <a href="https://www.linkedin.com/in/deepak-gupta-057684141/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
@@ -10,9 +10,9 @@
 </h4> 
 
 <p>
-<!--   <a target="_blank" align="center">
+  <a target="_blank" align="center">
   <img align="right" top="300" height="300" width="400" alt="image" src="https://www.tatvasoft.com/blog/wp-content/uploads/2022/07/Why-Use-React.jpg">
-</a>  -->
+</a> 
 </p>
 
  🌱 I'm a Full Stack Developer in Cognizant having 1.6 years of experience.
@@ -60,6 +60,11 @@
   
 <a href="https://github.com/deepakguptabvp">
 <img width="49%" placeholder="GitHub streak" title="Redirect's to Deepak's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakguptabvp&theme=dark&theme=black-ice&stroke=0000" /></a>
+
+<a href="https://github.com/deepakguptabvp">
+<img width="49%" placeholder="GitHub streak" title="Redirect's to Deepak's Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ## **Projects** -->
