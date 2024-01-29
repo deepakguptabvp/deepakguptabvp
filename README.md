@@ -58,10 +58,7 @@
 
 ## **GitHub Stats** :
 
-<p align="center">
-<a href="https://github.com/deepakguptabvp" title=" Redirect's to Deepak's Github">
-<img width="49%" src="https://githubreadmestats.vercel.app/apiusername=deepakguptabvp&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" />
-</a>
+ <img width ="49%" src=" https://github-readme-stats.vercel.app/api?username=deepakguptabvp&show_icons=true&theme=radical"/>
   
 <a href="https://github.com/deepakguptabvp">
 <img width="49%" placeholder="GitHub streak" title="Redirect's to Deepak's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakguptabvp&theme=dark&theme=black-ice&stroke=0000" /></a>
