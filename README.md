@@ -15,7 +15,7 @@
 </a>  -->
 </p>
 
- 🤝 <b> I’m available for Jobs. </b>
+ 🤝 <b> I’m available for Jobs.</br>
  🌱 I'm a Full Stack Developer in Cognizant having 1.6 years of experience. </br>
  🌱 I’m currently learning Advanced ReactJS and NextJs. </br>
  💬 Ask me about **ReactJS & Javascript & SpringBoot** </br>
