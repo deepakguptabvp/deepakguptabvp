@@ -57,14 +57,10 @@
 <a href="https://github.com/deepakguptabvp">
 <img width ="49%" src="https://github-readme-stats.vercel.app/api?username=deepakguptabvp&show_icons=true&theme=tokyonight"/>
 </a>
-  
-<a href="https://github.com/deepakguptabvp">
-<img width="49%" placeholder="GitHub streak" title="Redirect's to Deepak's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakguptabvp&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 <a href="https://github.com/deepakguptabvp">
-<img width="49%" placeholder="GitHub streak" title="Redirect's to Deepak's Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" /></a>
+<img width="49%" placeholder="GitHub streak" title="Redirect's to Deepak's Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ## **Projects** -->
