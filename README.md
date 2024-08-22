@@ -1,5 +1,5 @@
  <h1 align="center">  Hi 👋, I'm <a href="https://github.com/deepakguptabvp" target="blank">Deepak Gupta</a> </h1>
-<h3 align="center">  A Full Stack Web Developer &#127470;&#127475
+<h3 align="center">  Frontend Developer | React.js | JavaScript | CSS | Building responsive, user-centric web applications. &#127470;&#127475
 
 <a href="https://www.linkedin.com/in/deepak-gupta-057684141/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
