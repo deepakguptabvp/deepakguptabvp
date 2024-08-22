@@ -72,13 +72,6 @@
 </p>
 
 ## **GitHub Stats** :
-<a href="https://github.com/deepakguptabvp">
-<img width="49%" height="30%" placeholder="GitHub streak" title="Redirect's to Deepak's Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakguptabvp&layout=compact&theme=tokyonight" /></a>
-
-<a href="https://github.com/deepakguptabvp">
-<img width="50%" height="60%" src="https://github-readme-stats.vercel.app/api?username=deepakguptabvp&show_icons=true&theme=tokyonight"/>
-</a>
-
 
 <a href="https://github.com/deepakguptabvp" title="Check out Deepak's GitHub profile">
   <img width="49%" height="30%" alt="Deepak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakguptabvp&layout=compact&theme=tokyonight" />
