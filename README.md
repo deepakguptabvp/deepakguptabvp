@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/deepakguptabvp" target="blank">Deepak Gupta</a></h1>
 
+---
+
 <h3 align="center">Frontend Developer | React.js | JavaScript | CSS</h3>
 <h4 align="center">Building responsive, user-centric web applications</h4>
 
@@ -12,7 +14,7 @@
   </a>
 </p>
 
----
+
 
 <!-- <p align="center">
   <img align="center" height="300" width="400" alt="React" src="https://www.tatvasoft.com/blog/wp-content/uploads/2022/07/Why-Use-React.jpg">
