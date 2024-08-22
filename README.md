@@ -1,30 +1,49 @@
- <h1 align="center">  Hi 👋, I'm <a href="https://github.com/deepakguptabvp" target="blank">Deepak Gupta</a> </h1>
-<h3 align="center" bottom="200">  Frontend Developer | React.js | JavaScript | CSS | Building responsive, user-centric web applications. &#127470;&#127475
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/deepakguptabvp" target="blank">Deepak Gupta</a></h1>
 
-  <a href="https://www.linkedin.com/in/deepak-gupta-057684141/" align="center" top="200" bottom="200">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
- </a> 
-<a href="deepakgupta.150743@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</h3> 
+<h3 align="center">Frontend Developer | React.js | JavaScript | CSS</h3>
+<h4 align="center">Building responsive, user-centric web applications</h4>
 
-<p>
-<!--   <a target="_blank" align="center">
-  <img align="right" top="300" height="300" width="400" alt="image" src="https://www.tatvasoft.com/blog/wp-content/uploads/2022/07/Why-Use-React.jpg">
-</a>  -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepak-gupta-057684141/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:deepakgupta.150743@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
- 🤝 <b> I’m available for Jobs. (In MERN Stack, Frontend Development mainly React.js, Next.js)</br>
- 🌱 I'm a Full Stack Developer in Cognizant having 1.6 years of experience. </br>
- 🌱 I’m currently learning Advanced ReactJS and NextJs. </br>
- 💬 Ask me about **ReactJS & Javascript & SpringBoot** </br>
- 
-## **About me** :
-- I 😍love to **Create and modify new products** and **Projects**👨‍💻.
-- I Focus on my **Problem-Solving Skill** and Trend Awareness🕵️‍♀️.
-- I 👨‍🏫Love to **Share** my **knowledge** and **experience** in **Public**.
-- Always excited and ready to **Learn New Skills👨‍🎓**.
+---
+
+<p align="center">
+  <img align="center" height="300" width="400" alt="React" src="https://www.tatvasoft.com/blog/wp-content/uploads/2022/07/Why-Use-React.jpg">
+</p>
+
+---
+
+## About Me
+- 🎯 **Frontend Developer** with 2 years of experience in creating and maintaining web applications using React.js, JavaScript, and modern CSS frameworks.
+- 💻 Currently honing my skills in **Advanced ReactJS** and **Next.js** to deliver high-quality web solutions.
+- 🌍 Passionate about **Problem Solving** and staying ahead with the latest industry trends.
+- 🚀 I enjoy sharing knowledge, contributing to open-source projects, and learning new technologies.
+- 💬 Open to discussions on **ReactJS, JavaScript, and Spring Boot**.
+- 🤝 Actively seeking opportunities in **MERN Stack** and **Frontend Development** roles.
+
+## Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js, Spring Boot
+- **Databases:** MongoDB, MySQL
+- **Version Control:** Git, GitHub
+- **Tools:** VS Code, Postman
+
+## Featured Projects
+- [**Currency Converter**](https://github.com/deepakguptabvp/currency-converter): A web app for converting between 33 different currencies, built with React.js and Tailwind CSS.
+- [**To-Do List**](https://todo-list-gama.vercel.app/): A task management app with add, delete, and complete functionalities, developed using React.js.
+- [**Hunting Coder**](https://huntingcoder-delta.vercel.app/): A dynamic blog website created with Next.js and Tailwind CSS, showcasing a perfect Lighthouse score for performance and accessibility.
+
+## Let's Connect!
+- 📧 Feel free to reach out via [Email](mailto:deepakgupta.150743@gmail.com) for collaborations or job opportunities.
+- 💼 Check out my [LinkedIn](https://www.linkedin.com/in/deepak-gupta-057684141/) for more professional updates.
+
 
 ## **Languages and Tools**
 <p>
