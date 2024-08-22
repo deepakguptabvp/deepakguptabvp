@@ -14,9 +14,9 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" height="300" width="400" alt="React" src="https://www.tatvasoft.com/blog/wp-content/uploads/2022/07/Why-Use-React.jpg">
-</p>
+</p>  -->
 
 ---
 
