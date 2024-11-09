@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/deepakguptabvp" target="blank">Deepak Gupta</a></h1>
 
-<h3 align="center">Frontend Developer | React.js | JavaScript | CSS</h3>
+<h3 align="center">Frontend Developer | React.js | JavaScript | TypeScript | Tailwind CSS</h3>
 <h4 align="center">Building responsive, user-centric web applications</h4>
 
 <p align="center">
