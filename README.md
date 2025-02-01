@@ -39,9 +39,9 @@
 - **Tools:** VS Code, Postman
 
 ## Featured Projects
-- [**Currency Converter**](https://github.com/deepakguptabvp/currency-converter): A web app for converting between 33 different currencies, built with React.js and Tailwind CSS.
-- [**To-Do List**](https://todo-list-gama.vercel.app/): A task management app with add, delete, and complete functionalities, developed using React.js.
-- [**Hunting Coder**](https://huntingcoder-delta.vercel.app/): A dynamic blog website created with Next.js and Tailwind CSS, showcasing a perfect Lighthouse score for performance and accessibility.
+- [**Tune Masters-Academy**](https://tune-masters-academy.vercel.app/):  Built a responsive music learning platform with interactive animations and efficient course navigation, increasing customer engagement by 40%.
+- [**Portfolio Web-App**](portfolio-deepak-gupta.vercel.app): Created a mobile-responsive portfolio showcasing different sections with smooth navigation and engaging animations using Framer Motion​
+- [**Hunting Coder**](https://huntingcoder-delta.vercel.app/): Developed a dynamic blog website with a user-friendly query form, achieving a 100% Lighthouse score for performance and accessibility.
 
 ## Let's Connect!
 - 📧 Feel free to reach out via [Email](mailto:deepakgupta.150743@gmail.com) for collaborations or job opportunities.
