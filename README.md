@@ -24,7 +24,7 @@
 ---
 
 ## About Me
-- 🎯 **Frontend Developer** with 2 years of experience in creating and maintaining web applications using React.js, JavaScript, and modern CSS frameworks.
+- 🎯 **Frontend Developer** with 2.9 years of experience in creating and maintaining web applications using React.js, JavaScript, and modern CSS frameworks.
 - 💻 Currently honing my skills in **Advanced ReactJS** and **Next.js** to deliver high-quality web solutions.
 - 🌍 Passionate about **Problem Solving** and staying ahead with the latest industry trends.
 - 🚀 I enjoy sharing knowledge, contributing to open-source projects, and learning new technologies.
